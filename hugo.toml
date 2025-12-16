@@ -1,0 +1,53 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = '刘秀hub'
+theme = "PaperMod"
+
+# --- 下面是新增的“装修”部分 ---
+
+[params]
+  defaultTheme = "auto"           # 跟随系统自动切换黑白模式
+  description = "Code & Beats"    # 网站简介（出现在浏览器标签页）
+
+  # --- 个人简介模式 (Profile Mode) ---
+  [params.profileMode]
+    enabled = true                # 开启个人简介模式
+    title = "刘秀 (liud6280)"    # 主页显示的大名字
+    subtitle = "川大 CS / Rapper / 独立开发者"  # 名字下面的那行字
+    imageUrl = "avatar.jpg"       # 头像文件名 (要把图片放进 static 文件夹！)
+    imageTitle = "My Face"
+    imageWidth = 120
+    imageHeight = 120
+
+# --- 社交图标 (Social Icons) ---
+  
+  # 1. 网易云音乐 (Netease)
+  [[params.socialIcons]]
+    name = "music"   # 这里先用通用音乐图标，如果想用网易云Logo需要额外加SVG
+    url = "https://music.163.com/#/user/home?id=5111426995"
+    # 比如：id=12345678
+
+  # 2. 抖音 (Douyin/TikTok)
+  [[params.socialIcons]]
+    name = "tiktok"  # PaperMod 自带 TikTok 图标，形状和抖音一样
+    url = "https://www.douyin.com/user/69075978826" 
+    # 注意：去抖音网页版点进你的主页，复制地址栏那一串
+
+  # 3. B站 (保留着也不错，不想用就删掉这段)
+  [[params.socialIcons]]
+    name = "bilibili"
+    url = "https://space.bilibili.com/1808036468"
+# --- 下面是你原来的菜单配置 ---
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "首页"
+    url = "/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "about"
+    name = "关于我"
+    url = "/posts/about/"
+    weight = 20

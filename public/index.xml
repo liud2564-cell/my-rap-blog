@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>刘秀hub</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on 刘秀hub</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 16 Dec 2025 21:50:00 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>关于我：忧郁帅小孩</title>
+      <link>http://localhost:1313/posts/about/</link>
+      <pubDate>Tue, 16 Dec 2025 21:50:00 +0800</pubDate>
+      <guid>http://localhost:1313/posts/about/</guid>
+      <description>&lt;p&gt;## Who is 刘秀?&lt;/p&gt;
+&lt;p&gt;我是 **刘秀**，来自成都，19岁。&lt;/p&gt;
+&lt;p&gt;川大 CS 在读，但也混迹于 Trap 圈。&lt;/p&gt;
+&lt;p&gt;这里是我的个人主页，记录代码与 Beat 的碰撞。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;## 🎵 代表作：《忧郁帅小孩》&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;这里的冬天不下雪&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;但我的心比雪还冷&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;hellip; (在这里写你的歌词)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;### 听众评价&lt;/p&gt;
+&lt;p&gt;- **Asen**: &amp;ldquo;帅。&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;- **Travis Scott**: &amp;ldquo;Bro this is lit!&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;[点击这里去网易云收听](&lt;a href=&#34;https://music.163.com&#34;&gt;https://music.163.com&lt;/a&gt;)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>我的技术栈 &amp; 实习能力证明</title>
+      <link>http://localhost:1313/posts/tech-stack/</link>
+      <pubDate>Tue, 16 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/tech-stack/</guid>
+      <description>&lt;p&gt;## 🚀 为什么我能胜任这份实习？&lt;/p&gt;
+&lt;p&gt;虽然我是大一，但我已经熟练掌握了 **Hugo 静态网站搭建** 的全流程。&lt;/p&gt;
+&lt;p&gt;### 🛠️ 我掌握的技能&lt;/p&gt;
+&lt;p&gt;- **Hugo**: 能独立搭建站点、修改 &lt;code&gt;config.toml&lt;/code&gt; 配置、安装 Theme。&lt;/p&gt;
+&lt;p&gt;- **Markdown**: 你现在看到的这篇文章就是我用 Markdown 写的。&lt;/p&gt;
+&lt;p&gt;- **HTML/CSS**: 能进行基础的网页样式修改及调试。&lt;/p&gt;
+&lt;p&gt;- **Git**: 熟悉基本的 &lt;code&gt;git init&lt;/code&gt;, &lt;code&gt;submodule&lt;/code&gt; 操作。&lt;/p&gt;
+&lt;p&gt;### 💻 关于这个网站&lt;/p&gt;
+&lt;p&gt;这个网站就是我本地搭建的 Demo，使用了 **PaperMod** 主题。&lt;/p&gt;
+&lt;p&gt;我可以快速上手公司的文档维护工作，不需要额外的培训成本。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;Talk is cheap, show me the code.&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+    </item>
+  </channel>
+</rss>
