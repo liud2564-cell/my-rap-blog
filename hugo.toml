@@ -1,4 +1,4 @@
-baseURL = 'https://my-rap-blog.vercel.app/'
+baseURL = "https://my-rap-blog.vercel.app/"
 languageCode = 'en-us'
 title = '刘秀hub'
 theme = "PaperMod"
